@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733030942 source:c:\users\vitor philip\onedrive\Área de trabalho\c++\calculator\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733021863 source:c:\users\vitor philip\onedrive\Área de trabalho\c++\conversion\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

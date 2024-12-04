@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733282685 source:c:\users\vitor philip\onedrive\Área de trabalho\c++\createtriangle\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
